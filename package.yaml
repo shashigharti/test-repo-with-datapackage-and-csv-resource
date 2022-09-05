@@ -1,6 +1,6 @@
 name: package-with-csv-resource
 resources:
-  - name: number-two
+  - name: r-table-reverse-csv
     path: data/table-reverse.csv
     schema:
       fields:
