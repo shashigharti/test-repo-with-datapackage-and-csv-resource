@@ -1,13 +1,5 @@
-name: test-tabulator
+name: package-with-csv-resource
 resources:
-  - name: first-resource
-    path: table.xls
-    schema:
-      fields:
-        - name: id
-          type: number
-        - name: name
-          type: string
   - name: number-two
     path: table-reverse.csv
     schema:
