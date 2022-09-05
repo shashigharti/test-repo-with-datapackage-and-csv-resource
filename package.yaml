@@ -1,7 +1,7 @@
 name: package-with-csv-resource
 resources:
   - name: number-two
-    path: table-reverse.csv
+    path: data/table-reverse.csv
     schema:
       fields:
         - name: id
